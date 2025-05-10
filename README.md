@@ -19,9 +19,9 @@ pip install -r requirements.txt
 ## **🚀 How to use** 
 
 ### **1. Run the script** 
-Run the `encrypt_decrypt.py` file: 
+Run the `encryption_tool.py` file: 
 ```bash
-python3 encrypt_decrypt.py
+python3 encryption_tool.py
 ```
 
 ### **2. Available options** 
