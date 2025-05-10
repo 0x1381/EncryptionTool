@@ -46,3 +46,6 @@ python3 encryption_tool.py
 
 ## builder
 - 0x1381
+```diff
++ Afshin Ataei
+```
