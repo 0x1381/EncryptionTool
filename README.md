@@ -14,6 +14,23 @@
 git clone https://github.com/0x1381/EncryptionTool/
 cd EncryptionTool
 pip install -r requirements.txt
-
-
 ```
+
+## **🚀 How to use** 
+
+### **1. Run the script** 
+Run the `encrypt_decrypt.py` file: 
+```bash
+python3 encrypt_decrypt.py
+```
+
+### **2. Available options** 
+- **Encrypt text**: 
+- Enter the original text. 
+- Specify the encryption key. 
+- Output: Encrypted text. 
+
+- **Decrypt text**: 
+- Enter the encrypted text. 
+- Enter the decryption key. 
+- Output: Original text.
