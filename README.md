@@ -8,4 +8,4 @@
 - **Python 3.x** 
 - **pip** (for installing libraries) 
 
-### **Installing Required Libraries**
+## **Installing**
