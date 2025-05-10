@@ -34,3 +34,14 @@ python3 encryption_tool.py
 - Enter the encrypted text. 
 - Enter the decryption key. 
 - Output: Original text.
+
+### **📌 Security Tips** 
+- **Store keys in a secure environment.** 
+- **Use strong algorithms like AES-256.** 
+
+
+💡 **To contribute or report a problem, check out GitHub Issues.** 
+
+**⭐ If you liked this project, give it a star!** 
+
+
