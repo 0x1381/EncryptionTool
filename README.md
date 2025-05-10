@@ -9,3 +9,11 @@
 - **pip** (for installing libraries) 
 
 ## **Installing**
+
+```bash
+git clone https://github.com/0x1381/EncryptionTool/
+cd EncryptionTool
+pip install -r requirements.txt
+
+
+```
