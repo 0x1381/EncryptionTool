@@ -5,7 +5,7 @@
 ## **📥 Installation and Setup** 
 
 ### **Prerequisites** 
-- ** Python 3.x** 
+- **Python 3.x** 
 - **pip** (for installing libraries) 
 
 ### **Installing Required Libraries**
